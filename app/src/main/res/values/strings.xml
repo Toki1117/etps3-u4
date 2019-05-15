@@ -16,4 +16,6 @@
     <string name="datos">Datos personales</string>
     <string name="preferencias">Preferencias</string>
     <string name="salir">Salir</string>
+    <string name="me">Diana Marcela Slaguero Quezada</string>
+    <string name="carnet">25-0647-2014</string>
 </resources>
